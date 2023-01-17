@@ -1,0 +1,29 @@
+Fork this Repo.  --- Done
+
+Start with a DevOps Roadmap[https://youtu.be/iOE9NTAG35g] --- Done
+
+Write a LinkedIn post or a small article about your understanding of DevOps --- Yet to do 
+
+What is DevOps 
+
+DevOps is a software development approach through which superior quality software can be developed quickly & with more reliability.
+
+DevOps is a methodology that allows a single team to manage the entire application development life cycle i.e., development, testing, deployment, and operations.
+
+DevOps is a combination of Development and Operations.
+
+
+What is Automation, Scaling, Infrastructure
+
+1.  Automation
+
+Automation can reduce time consumption, especially during the testing and deployment phase. 
+
+Increased in productivity releases are made quicker by automation.
+
+Helps us in finding, reporting, and fixing bugs faster.
+
+For Contiguous-Delivery, each code is defined through automated tests, cloud-based services, and builds. This promotes production using automated deploys.
+
+
+Why DevOps is Important, etc
